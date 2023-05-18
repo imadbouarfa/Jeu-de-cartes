@@ -1,0 +1,21 @@
+// test1.txt
+Joueur 0 dommage 3 expérience 0
+Joueur 1 dommage 2 expérience 1
+// test2.txt
+Erreur : ligne 3, joueur 0, a jouer une carte inexistante : Coup.
+// test3.txt
+Erreur : ligne 4, joueur 1, Carte PetitePause, le joueur n'avait plus assez d'attaque pour jouer cette carte.
+// test4.txt
+Erreur : ligne 3, joueur 0, Carte Fleche, le joueur n'avait plus de carte.
+// test5.txt
+Joueur 0 dommage 0 expérience 0
+Joueur 1 dommage 4 expérience 0
+// test6.txt
+Joueur 0 dommage 0 expérience 0
+Joueur 1 dommage 8 expérience 0
+// test7.txt
+Joueur 0 dommage 0 expérience 1
+Joueur 1 dommage 0 expérience 0
+// test8.txt
+Joueur 0 dommage 0 expérience 1
+Joueur 1 dommage 0 expérience 0
