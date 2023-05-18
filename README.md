@@ -12,5 +12,6 @@ Le projet est un logiciel qui interprète les résultats d’un jeu en analysant
 
 ## Utilisation
 * Ouvrir le projet dans votre IDE
-* Build et exécuter le projet à partir de la classe "IndenteurPseudocode.java"
-* Choisissez le fichier à indenter ou utiliser l'un des fichiers se trouvant déjà à la racine du projet.
+* Build et exécuter le projet à partir de la classe "Main.java"
+* Choisissez l'un des fichiers à exécuter se trouvant déjà à la racine du projet.
+* Un fichier "résultats" est fournis afin de vérifier l'exactitude des tests.
