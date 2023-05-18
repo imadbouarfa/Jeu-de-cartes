@@ -1,0 +1,9 @@
+0 NouvelleEnergie
+1 NouvelleEnergie
+1 Esquive
+0 CoupDroit
+0 Vitesse
+1 Trance 1
+1 Illumination
+1 Oups
+1 Fleche
