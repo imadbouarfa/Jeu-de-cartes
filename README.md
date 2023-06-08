@@ -1,6 +1,6 @@
 # Jeu-de-cartes
 
-# Description du project
+# Description du projet
 
 Le projet est un logiciel qui interprète les résultats d’un jeu en analysant la suite d’événements du jeu. Le logiciel lit une suite d’événements dans un fichier qui décrit une partie d’un jeu de cartes de type CCG.
 
