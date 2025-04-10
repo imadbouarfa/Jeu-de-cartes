@@ -5,7 +5,7 @@
 Le projet est un logiciel qui interprète les résultats d’un jeu en analysant la suite d’événements du jeu. Le logiciel lit une suite d’événements dans un fichier qui décrit une partie d’un jeu de cartes de type CCG.
 
 ## Authors
-[@Shaker, Imad](https://gitlab.info.uqam.ca/bouarfa.imad)
+[@Bouarfa, Imad](https://gitlab.info.uqam.ca/bouarfa.imad)
 
 ## Technologies
 * IntelliJ IDEA (https://www.jetbrains.com/idea/)
